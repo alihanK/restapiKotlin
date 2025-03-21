@@ -1,11 +1,10 @@
 # restapiKotlin
-# Social Media App with Kotlin JetPack Compose and MVVM and Dagger Hilt
-# RestApi with JETPACK COMPOSE & Dagger Hilt Dependency Injection & Firebase
+# Social Media App with Kotlin JETPACK COMPOSE MVVM Clean architecture Dagger-2 (di) & Dagger Hilt Dependency Injection & Firebase
 
-![hq720](https://github.com/user-attachments/assets/86fdbc4a-827b-4d42-a6e8-a769d4429115)
-![1_NvvHhA24kizVjj7W50AnuA](https://github.com/user-attachments/assets/450e6951-68b7-4870-af65-f842c8feb4fc)
-![Firebase_logo](https://github.com/user-attachments/assets/a104a010-bd43-46e4-800e-6a5483ae6a40)
-
+![compose_logo](https://github.com/user-attachments/assets/10179738-820d-46b5-8e5a-429f172c4dfc)
+![MVVM](https://github.com/user-attachments/assets/9352edb1-ec5b-4356-9eff-1e9ddafbf0b6)
+![dagger-hilt](https://github.com/user-attachments/assets/31ed231b-e7f6-4cc4-8a13-c7a64ee2498a)
+![Firebase_logo](https://github.com/user-attachments/assets/87897f14-55bd-49b0-a037-23f692de1833)
 
 
 ![Rest1](https://github.com/user-attachments/assets/78bb7a28-a0e5-4f36-b6cc-08a28aca1b5f)
